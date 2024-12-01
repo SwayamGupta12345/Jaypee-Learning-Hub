@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "jlh";
+$dbname = "";
 $port = "3306"; // Set this to your phpMyAdmin port if different
 
 // Create connection
